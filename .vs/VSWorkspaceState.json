@@ -8,6 +8,5 @@
     "\\src\\app\\recipes\\recipe-list",
     "\\src\\app\\recipes\\recipe-list\\recipe-item"
   ],
-  "SelectedNode": "\\src\\app\\recipes\\recipe-detail\\recipe-detail.component.html",
   "PreviewInSolutionExplorer": false
 }
